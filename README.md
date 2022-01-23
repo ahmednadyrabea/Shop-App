@@ -5,11 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-This is my first flutter project using :-
-1- design pattern 'MVVM'
-2- OOP
-3- State Manegment 'GETX'
-4- Firebase
+## This is my first flutter project using :-
+## 1- design pattern 'MVVM'
+## 2- OOP
+## 3- State Manegment 'GETX'
+## 4- Firebase
 
 A few resources to get you started if this is your first Flutter project:
 
